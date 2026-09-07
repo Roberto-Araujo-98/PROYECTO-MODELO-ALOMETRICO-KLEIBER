@@ -1,4 +1,4 @@
-# kleiber-ia 🫀⚡
+# Modelo alométrico kleiber 🫀⚡
 
 > **Análisis de escalamiento alométrico en mamíferos y modelo predictivo de anomalía metabólica humana mediante Inteligencia Artificial.**
 
